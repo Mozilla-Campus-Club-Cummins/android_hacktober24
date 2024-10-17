@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <item name="recyclerView" type="id"/>
+    <string name="app_name">Esha\'sGalleryGrid</string>
+    <style name="Base.Theme.EshasGalleryGrid" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.EshasGalleryGrid" parent="Base.Theme.EshasGalleryGrid"/>
+</resources>
