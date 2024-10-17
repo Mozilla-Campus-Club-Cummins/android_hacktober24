@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-debug-31:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-pngs-27:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-debug-31:\\drawable_image1.jpg.flat",
+        "source": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-main-33:\\drawable\\image1.jpg"
+    },
+    {
+        "merged": "com.example.eshasgallerygrid.app-debug-31:/drawable_image10.jpg.flat",
+        "source": "com.example.eshasgallerygrid.app-main-33:/drawable/image10.jpg"
+    },
+    {
+        "merged": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-debug-31:\\drawable_image8.jpg.flat",
+        "source": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-main-33:\\drawable\\image8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-debug-31:\\layout_activity_fullscreen_image.xml.flat",
+        "source": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-main-33:\\layout\\activity_fullscreen_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-debug-31:\\layout_activity_gallery.xml.flat",
+        "source": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-main-33:\\layout\\activity_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-debug-31:\\drawable_image3.jpg.flat",
+        "source": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-main-33:\\drawable\\image3.jpg"
+    },
+    {
+        "merged": "com.example.eshasgallerygrid.app-debug-31:/drawable_image12.jpg.flat",
+        "source": "com.example.eshasgallerygrid.app-main-33:/drawable/image12.jpg"
+    },
+    {
+        "merged": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.eshasgallerygrid.app-debug-31:/drawable_image13.jpg.flat",
+        "source": "com.example.eshasgallerygrid.app-main-33:/drawable/image13.jpg"
+    },
+    {
+        "merged": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-debug-31:\\drawable_image5.jpg.flat",
+        "source": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-main-33:\\drawable\\image5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-debug-31:\\layout_item_image.xml.flat",
+        "source": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-main-33:\\layout\\item_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-debug-31:\\drawable_image7.jpg.flat",
+        "source": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-main-33:\\drawable\\image7.jpg"
+    },
+    {
+        "merged": "com.example.eshasgallerygrid.app-debug-31:/drawable_image15.jpg.flat",
+        "source": "com.example.eshasgallerygrid.app-main-33:/drawable/image15.jpg"
+    },
+    {
+        "merged": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-debug-31:\\drawable_image9.jpg.flat",
+        "source": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-main-33:\\drawable\\image9.jpg"
+    },
+    {
+        "merged": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-debug-31:\\drawable_image2.jpg.flat",
+        "source": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-main-33:\\drawable\\image2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.example.eshasgallerygrid.app-debug-31:/drawable_image11.jpg.flat",
+        "source": "com.example.eshasgallerygrid.app-main-33:/drawable/image11.jpg"
+    },
+    {
+        "merged": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.eshasgallerygrid.app-debug-31:/drawable_image14.jpg.flat",
+        "source": "com.example.eshasgallerygrid.app-main-33:/drawable/image14.jpg"
+    },
+    {
+        "merged": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-debug-31:\\drawable_image4.jpg.flat",
+        "source": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-main-33:\\drawable\\image4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-debug-31:\\drawable_image6.jpg.flat",
+        "source": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-main-33:\\drawable\\image6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\eshad\\.gradle\\daemon\\8.7\\com.example.eshasgallerygrid.app-main-33:\\xml\\data_extraction_rules.xml"
+    }
+]
