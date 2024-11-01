@@ -1,0 +1,262 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/img"
+    android:padding="16dp">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:paddingBottom="80dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <!-- Dish 1 -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1. Caesar Salad"
+                android:textSize="18sp"
+                android:textColor="@android:color/black"
+                android:paddingBottom="8dp" />
+
+            <RatingBar
+                android:id="@+id/caesarSaladRatingBar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:numStars="5"
+                android:stepSize="1.0" />
+
+            <TextView
+                android:id="@+id/caesarSaladRatingTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Rating: 0"
+                android:textColor="@android:color/darker_gray"
+                android:paddingBottom="16dp" />
+
+            <!-- Dish 2 -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2. Spaghetti Carbonara"
+                android:textSize="18sp"
+                android:paddingBottom="8dp" />
+
+            <RatingBar
+                android:id="@+id/spaghettiCarbonaraRatingBar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:numStars="5"
+                android:stepSize="1.0" />
+
+            <TextView
+                android:id="@+id/spaghettiCarbonaraRatingTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Rating: 0"
+                android:textColor="@android:color/darker_gray"
+                android:paddingBottom="16dp" />
+
+            <!-- Additional Dishes -->
+
+            <!-- Dish 3 -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="3. Margherita Pizza"
+                android:textSize="18sp"
+                android:paddingBottom="8dp" />
+
+            <RatingBar
+                android:id="@+id/margheritaPizzaRatingBar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:numStars="5"
+                android:stepSize="1.0" />
+
+            <TextView
+                android:id="@+id/margheritaPizzaRatingTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Rating: 0"
+                android:textColor="@android:color/darker_gray"
+                android:paddingBottom="16dp" />
+
+            <!-- Dish 4 -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="4. Tandoori Chicken"
+                android:textSize="18sp"
+                android:paddingBottom="8dp" />
+
+            <RatingBar
+                android:id="@+id/tandooriChickenRatingBar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:numStars="5"
+                android:stepSize="1.0" />
+
+            <TextView
+                android:id="@+id/tandooriChickenRatingTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Rating: 0"
+                android:textColor="@android:color/darker_gray"
+                android:paddingBottom="16dp" />
+
+            <!-- Dish 5 -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="5. Chocolate Lava Cake"
+                android:textSize="18sp"
+                android:paddingBottom="8dp" />
+
+            <RatingBar
+                android:id="@+id/chocolateLavaCakeRatingBar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:numStars="5"
+                android:stepSize="1.0" />
+
+            <TextView
+                android:id="@+id/chocolateLavaCakeRatingTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Rating: 0"
+                android:textColor="@android:color/darker_gray"
+                android:paddingBottom="16dp" />
+            <!-- Dish 6 -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="6. Sushi Platter"
+                android:textSize="18sp"
+                android:paddingBottom="8dp" />
+
+            <RatingBar
+                android:id="@+id/sushiPlatterRatingBar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:numStars="5"
+                android:stepSize="1.0" />
+
+            <TextView
+                android:id="@+id/sushiPlatterRatingTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Rating: 0"
+                android:textColor="@android:color/darker_gray"
+                android:paddingBottom="16dp" />
+            <!--  From here need to change!!!!-->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="7. Grilled Salmon"
+                android:textSize="18sp"
+                android:paddingBottom="8dp" />
+
+            <RatingBar
+                android:id="@+id/grilledSalmonRatingBar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:numStars="5"
+                android:stepSize="1.0" />
+
+            <TextView
+                android:id="@+id/grilledSalmonRatingTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Rating: 0"
+                android:textColor="@android:color/darker_gray"
+                android:paddingBottom="16dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="8. Chicken Biryani"
+                android:textSize="18sp"
+                android:paddingBottom="8dp" />
+
+            <RatingBar
+                android:id="@+id/chickenBiryaniRatingBar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:numStars="5"
+                android:stepSize="1.0" />
+
+            <TextView
+                android:id="@+id/chickenBiryaniRatingTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Rating: 0"
+                android:textColor="@android:color/darker_gray"
+                android:paddingBottom="16dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="9. French fries"
+                android:textSize="18sp"
+                android:paddingBottom="8dp" />
+
+            <RatingBar
+                android:id="@+id/frenchFriesRatingBar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:numStars="5"
+                android:stepSize="1.0" />
+
+            <TextView
+                android:id="@+id/frenchFriesRatingTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Rating: 0"
+                android:textColor="@android:color/darker_gray"
+                android:paddingBottom="16dp" />
+            <!-- Dish 10 -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="10. Tiramisu"
+                android:textSize="18sp"
+                android:paddingBottom="8dp" />
+
+            <RatingBar
+                android:id="@+id/tiramisuRatingBar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:numStars="5"
+                android:stepSize="1.0" />
+
+            <TextView
+                android:id="@+id/tiramisuRatingTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Rating: 0"
+                android:textColor="@android:color/darker_gray"
+                android:paddingBottom="16dp" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+    <!-- Submit Feedback Button -->
+    <Button
+        android:id="@+id/submitFeedbackButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Submit Feedback"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/fancy_button_background"
+        android:textColor="@android:color/white"
+        android:padding="12dp"
+        android:textSize="16sp" />
+</RelativeLayout>
